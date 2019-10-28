@@ -72,6 +72,8 @@ main div div h1,p{
   .post-title{
       text-align: center;
       padding-top: 1em;
+      margin: 5px;
+      color: chartreuse;
   }
   .post-items-wrapper{
     display: flex;
